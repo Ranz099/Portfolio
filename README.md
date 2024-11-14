@@ -20,7 +20,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Ranjan Kumar](https://github.com/Ranz099/MyPortfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Ranjan Kumar](https://github.com/Ranz099/Portfolio). Thanks!
 
 ## Built With
 
